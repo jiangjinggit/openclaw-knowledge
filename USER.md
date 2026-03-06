@@ -3,7 +3,7 @@
 ## 基本信息
 - **Name:** [你的名字或昵称]
 - **How to call:** [AI 怎么称呼你，比如：老板、主人、[名字]]
-- **Timezone:** [你的时区，比如：Your/Timezone (UTC+8)、America/New_York (UTC-5)]
+- **Timezone:** [你的时区，比如：Asia/Shanghai (UTC+8)、America/New_York (UTC-5)]
 - **Identity:** [你的身份，比如：独立开发者、创业者、设计师、学生]
 
 ## 核心路线（Core Strategy）
@@ -157,7 +157,7 @@
 ```
 Name: 张三
 Identity: 独立开发者
-Timezone: Your/Timezone (UTC+8)
+Timezone: Asia/Shanghai (UTC+8)
 
 核心路线：产品 + 内容双飞轮
 重点业务：
@@ -174,7 +174,7 @@ Timezone: Your/Timezone (UTC+8)
 ```
 Name: 李四
 Identity: 内容创作者
-Timezone: Your/Timezone (UTC+8)
+Timezone: Asia/Shanghai (UTC+8)
 
 核心路线：内容 + 知识付费
 重点业务：
@@ -191,7 +191,7 @@ Timezone: Your/Timezone (UTC+8)
 ```
 Name: 王五
 Identity: 计算机专业学生
-Timezone: Your/Timezone (UTC+8)
+Timezone: Asia/Shanghai (UTC+8)
 
 核心路线：学习 + 实践 + 分享
 重点业务：

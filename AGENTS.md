@@ -63,9 +63,9 @@
 - status: todo
 - from: ceo
 - to: build
-- created_at: 2026-03-06 10:00 Your/Timezone
-- deadline: 2026-03-06 18:00 Your/Timezone
-- last_update_at: 2026-03-06 10:00 Your/Timezone
+- created_at: 2026-03-06 10:00 Asia/Shanghai
+- deadline: 2026-03-06 18:00 Asia/Shanghai
+- last_update_at: 2026-03-06 10:00 Asia/Shanghai
 - objective: 完成 X 功能开发
 - acceptance:
   1. 代码通过测试
@@ -96,7 +96,7 @@
 ### RESULT T-20260306-build-001
 - status: done
 - owner: build
-- reported_at: 2026-03-06 17:30 Your/Timezone
+- reported_at: 2026-03-06 17:30 Asia/Shanghai
 - deliverables:
   1. PR: https://github.com/xxx/pull/123
   2. 测试日志: logs/test-20260306.log

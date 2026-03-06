@@ -12,7 +12,7 @@
 |------|------|------|
 | **Name** | 你的名字或昵称 | 张三、Alex |
 | **How to call** | AI 怎么称呼你 | 老板、主人、张三 |
-| **Timezone** | 你的时区 | Your/Timezone (UTC+8) |
+| **Timezone** | 你的时区 | Asia/Shanghai (UTC+8) |
 | **Identity** | 你的身份 | 独立开发者、创业者、学生 |
 
 ### 填写示例
@@ -20,7 +20,7 @@
 ```markdown
 - Name: 张三
 - How to call: 老板
-- Timezone: Your/Timezone (UTC+8)
+- Timezone: Asia/Shanghai (UTC+8)
 - Identity: 独立开发者
 ```
 
@@ -208,7 +208,7 @@
 ## 基本信息
 - Name: 张三
 - How to call: 老板
-- Timezone: Your/Timezone (UTC+8)
+- Timezone: Asia/Shanghai (UTC+8)
 - Identity: 独立开发者
 
 ## 核心路线
@@ -251,7 +251,7 @@
 ## 基本信息
 - Name: 李四
 - How to call: 李老师
-- Timezone: Your/Timezone (UTC+8)
+- Timezone: Asia/Shanghai (UTC+8)
 - Identity: 内容创作者
 
 ## 核心路线
@@ -294,7 +294,7 @@
 ## 基本信息
 - Name: 王五
 - How to call: 王同学
-- Timezone: Your/Timezone (UTC+8)
+- Timezone: Asia/Shanghai (UTC+8)
 - Identity: 计算机专业学生
 
 ## 核心路线

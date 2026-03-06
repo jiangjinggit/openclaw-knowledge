@@ -11,9 +11,9 @@
 - status: todo
 - from: ceo
 - to: build
-- created_at: YYYY-MM-DD HH:MM Your/Timezone
-- deadline: YYYY-MM-DD HH:MM Your/Timezone
-- last_update_at: YYYY-MM-DD HH:MM Your/Timezone
+- created_at: YYYY-MM-DD HH:MM Asia/Shanghai
+- deadline: YYYY-MM-DD HH:MM Asia/Shanghai
+- last_update_at: YYYY-MM-DD HH:MM Asia/Shanghai
 - objective: [一句话目标]
 - acceptance:
   1. [可量化标准1]
@@ -33,9 +33,9 @@
 - status: todo
 - from: ceo
 - to: build
-- created_at: 2026-03-06 10:00 Your/Timezone
-- deadline: 2026-03-06 18:00 Your/Timezone
-- last_update_at: 2026-03-06 10:00 Your/Timezone
+- created_at: 2026-03-06 10:00 Asia/Shanghai
+- deadline: 2026-03-06 18:00 Asia/Shanghai
+- last_update_at: 2026-03-06 10:00 Asia/Shanghai
 - objective: 完成《OpenClaw 多Agent协作》公众号文章
 - acceptance:
   1. 字数≥3000

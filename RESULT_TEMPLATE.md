@@ -12,7 +12,7 @@
 ### RESULT T-YYYYMMDD-<role>-NNN
 - status: done
 - owner: [执行者：build/research/growth/ops]
-- reported_at: YYYY-MM-DD HH:MM Your/Timezone
+- reported_at: YYYY-MM-DD HH:MM Asia/Shanghai
 - deliverables:
   1. [交付物1：文件路径/链接]
   2. [交付物2：文件路径/链接]
@@ -34,7 +34,7 @@
 ### RESULT T-20260306-build-001
 - status: done
 - owner: build
-- reported_at: 2026-03-06 17:30 Your/Timezone
+- reported_at: 2026-03-06 17:30 Asia/Shanghai
 - deliverables:
   1. 文章：team/content/wechat/2026-03-06/article.md
   2. 配图：team/content/wechat/2026-03-06/images/ (3张)
@@ -57,7 +57,7 @@
 ### RESULT T-20260306-build-002
 - status: done
 - owner: build
-- reported_at: 2026-03-07 17:00 Your/Timezone
+- reported_at: 2026-03-07 17:00 Asia/Shanghai
 - deliverables:
   1. PR：https://github.com/xxx/pull/123
   2. 测试日志：logs/test-20260307.log
@@ -80,7 +80,7 @@
 ### RESULT T-20260306-research-001
 - status: done
 - owner: research
-- reported_at: 2026-03-06 11:45 Your/Timezone
+- reported_at: 2026-03-06 11:45 Asia/Shanghai
 - deliverables:
   1. 数据分析报告：team/data/weekly_report/2026-03-06-analysis.md
   2. 数据图表：team/data/weekly_report/charts/ (5张)
@@ -103,7 +103,7 @@
 ### RESULT T-20260306-build-003
 - status: blocked
 - owner: build
-- reported_at: 2026-03-06 15:00 Your/Timezone
+- reported_at: 2026-03-06 15:00 Asia/Shanghai
 - deliverables:
   1. 部分代码：src/feature-x/ (50%完成)
 - evidence:
@@ -127,7 +127,7 @@
 | task_id | 对应的任务ID | T-20260306-build-001 |
 | status | done/blocked/needs_info | done |
 | owner | 执行者 | build |
-| reported_at | 报告时间 | 2026-03-06 17:30 Your/Timezone |
+| reported_at | 报告时间 | 2026-03-06 17:30 Asia/Shanghai |
 | deliverables | 交付物（文件/链接） | 文章、代码、报告 |
 | evidence | 证据（可验证） | 字数统计、测试结果 |
 | blockers | 阻塞问题 | 无 或 具体问题 |

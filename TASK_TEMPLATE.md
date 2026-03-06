@@ -13,9 +13,9 @@
 - status: todo
 - from: [派发者：ceo/pm]
 - to: [接收者：build/research/growth/ops]
-- created_at: YYYY-MM-DD HH:MM Your/Timezone
-- deadline: YYYY-MM-DD HH:MM Your/Timezone
-- last_update_at: YYYY-MM-DD HH:MM Your/Timezone
+- created_at: YYYY-MM-DD HH:MM Asia/Shanghai
+- deadline: YYYY-MM-DD HH:MM Asia/Shanghai
+- last_update_at: YYYY-MM-DD HH:MM Asia/Shanghai
 - objective: [一句话目标]
 - acceptance:
   1. [验收标准1 - 可量化、可验证]
@@ -35,9 +35,9 @@
 - status: todo
 - from: ceo
 - to: build
-- created_at: 2026-03-06 10:00 Your/Timezone
-- deadline: 2026-03-06 18:00 Your/Timezone
-- last_update_at: 2026-03-06 10:00 Your/Timezone
+- created_at: 2026-03-06 10:00 Asia/Shanghai
+- deadline: 2026-03-06 18:00 Asia/Shanghai
+- last_update_at: 2026-03-06 10:00 Asia/Shanghai
 - objective: 完成"OpenClaw多Agent协作"文章
 - acceptance:
   1. 字数3000字以上
@@ -58,9 +58,9 @@
 - status: todo
 - from: pm
 - to: build
-- created_at: 2026-03-06 14:00 Your/Timezone
-- deadline: 2026-03-07 18:00 Your/Timezone
-- last_update_at: 2026-03-06 14:00 Your/Timezone
+- created_at: 2026-03-06 14:00 Asia/Shanghai
+- deadline: 2026-03-07 18:00 Asia/Shanghai
+- last_update_at: 2026-03-06 14:00 Asia/Shanghai
 - objective: 完成用户登录功能开发
 - acceptance:
   1. 代码通过所有测试（100% coverage）
@@ -81,9 +81,9 @@
 - status: todo
 - from: ceo
 - to: research
-- created_at: 2026-03-06 09:00 Your/Timezone
-- deadline: 2026-03-06 12:00 Your/Timezone
-- last_update_at: 2026-03-06 09:00 Your/Timezone
+- created_at: 2026-03-06 09:00 Asia/Shanghai
+- deadline: 2026-03-06 12:00 Asia/Shanghai
+- last_update_at: 2026-03-06 09:00 Asia/Shanghai
 - objective: 分析上周内容数据，找出最佳发布时间
 - acceptance:
   1. 分析至少10篇文章的数据
@@ -105,9 +105,9 @@
 | status | todo/doing/blocked/done | todo |
 | from | 派发者 | ceo/pm |
 | to | 接收者 | build/research/growth/ops |
-| created_at | 创建时间 | 2026-03-06 10:00 Your/Timezone |
-| deadline | 截止时间 | 2026-03-06 18:00 Your/Timezone |
-| last_update_at | 最后更新时间 | 2026-03-06 10:00 Your/Timezone |
+| created_at | 创建时间 | 2026-03-06 10:00 Asia/Shanghai |
+| deadline | 截止时间 | 2026-03-06 18:00 Asia/Shanghai |
+| last_update_at | 最后更新时间 | 2026-03-06 10:00 Asia/Shanghai |
 | objective | 一句话目标 | 完成X功能开发 |
 | acceptance | 验收标准（可量化） | 1. 代码通过测试 2. 有文档 |
 | required_output | 需要回传的交付物 | PR链接 + 测试日志 |

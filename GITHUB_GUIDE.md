@@ -27,7 +27,7 @@
 ### Step 1：初始化 Git 仓库
 
 ```bash
-cd /path/to/openclaw_config_template
+cd /root/.openclaw/workspace-djy-ceo/team/content/openclaw_config_template
 
 # 初始化 git
 git init
@@ -100,7 +100,7 @@ git push -u origin main
 
 ```bash
 # 1. 初始化 git
-cd /path/to/openclaw_config_template
+cd /root/.openclaw/workspace-djy-ceo/team/content/openclaw_config_template
 git init
 git add *.md
 git commit -m "Initial commit: OpenClaw 配置模板"
