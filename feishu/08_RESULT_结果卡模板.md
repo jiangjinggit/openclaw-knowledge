@@ -10,7 +10,7 @@
 ### RESULT T-YYYYMMDD-<role>-NNN
 - status: done
 - owner: build
-- reported_at: YYYY-MM-DD HH:MM Asia/Shanghai
+- reported_at: YYYY-MM-DD HH:MM Your/Timezone
 - deliverables:
   1. [交付物1：文件路径/链接]
   2. [交付物2：文件路径/链接]
@@ -30,7 +30,7 @@
 ### RESULT T-20260306-build-001
 - status: done
 - owner: build
-- reported_at: 2026-03-06 17:30 Asia/Shanghai
+- reported_at: 2026-03-06 17:30 Your/Timezone
 - deliverables:
   1. 文稿：team/content/wechat/2026-03-06/article.md
   2. 配图：team/content/wechat/2026-03-06/images/

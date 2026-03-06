@@ -186,7 +186,7 @@ openclaw chat "帮我写一篇关于 AI 的文章"
     {
       "id": "daily-report",
       "schedule": "0 8 * * *",
-      "agent": "djy_ceo",
+      "agent": "your_ceo_agent",
       "task": "生成今日任务清单"
     }
   ]
@@ -229,4 +229,4 @@ A: 可以。你可以删除不需要的角色，也可以添加新角色。
 
 ---
 
-**关注「AI Superman DJY」，一起用 AI 成为超级个体**
+**关注「Your AI Team」，一起用 AI 成为超级个体**

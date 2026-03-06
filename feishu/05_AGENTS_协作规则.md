@@ -149,9 +149,9 @@ PM 拆解完任务后，Build 会自动生成技术方案，
 - status: todo
 - from: ceo
 - to: build
-- created_at: 2026-03-06 10:00 Asia/Shanghai
-- deadline: 2026-03-06 18:00 Asia/Shanghai
-- last_update_at: 2026-03-06 10:00 Asia/Shanghai
+- created_at: 2026-03-06 10:00 Your/Timezone
+- deadline: 2026-03-06 18:00 Your/Timezone
+- last_update_at: 2026-03-06 10:00 Your/Timezone
 - objective: 完成 X 功能开发
 - acceptance:
   1. 代码通过测试
@@ -170,8 +170,8 @@ PM 拆解完任务后，Build 会自动生成技术方案，
 | `status` | 任务状态 | todo/doing/blocked/done |
 | `from` | 派发者 | ceo/pm |
 | `to` | 接收者 | build/research/growth/ops |
-| `created_at` | 创建时间 | 2026-03-06 10:00 Asia/Shanghai |
-| `deadline` | 截止时间 | 2026-03-06 18:00 Asia/Shanghai |
+| `created_at` | 创建时间 | 2026-03-06 10:00 Your/Timezone |
+| `deadline` | 截止时间 | 2026-03-06 18:00 Your/Timezone |
 | `objective` | 一句话目标 | 完成 X 功能开发 |
 | `acceptance` | 验收标准 | 1. 代码通过测试 2. 有技术文档 |
 | `required_output` | 需要回传的交付物 | PR 链接 + 测试日志 |
@@ -186,7 +186,7 @@ PM 拆解完任务后，Build 会自动生成技术方案，
 ### RESULT T-20260306-build-001
 - status: done
 - owner: build
-- reported_at: 2026-03-06 17:30 Asia/Shanghai
+- reported_at: 2026-03-06 17:30 Your/Timezone
 - deliverables:
   1. PR: https://github.com/xxx/pull/123
   2. 测试日志: logs/test-20260306.log
@@ -207,7 +207,7 @@ PM 拆解完任务后，Build 会自动生成技术方案，
 | `task_id` | 对应的任务 ID | T-20260306-build-001 |
 | `status` | 结果状态 | done/blocked/needs_info |
 | `owner` | 执行者 | build |
-| `reported_at` | 报告时间 | 2026-03-06 17:30 Asia/Shanghai |
+| `reported_at` | 报告时间 | 2026-03-06 17:30 Your/Timezone |
 | `deliverables` | 交付物 | PR 链接、测试日志、技术文档 |
 | `evidence` | 证据 | 测试通过、代码已合并 |
 | `next_step` | 下一步动作 | owner + deadline |

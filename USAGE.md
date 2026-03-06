@@ -221,7 +221,7 @@ A:
 ```json
 {
   "variables": {
-    "USER_TIMEZONE": "Asia/Shanghai",
+    "USER_TIMEZONE": "Your/Timezone",
     "USER_NAME": "张三"
   }
 }
